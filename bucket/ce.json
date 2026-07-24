@@ -1,12 +1,12 @@
 {
-    "version": "0.1.30",
+    "version": "0.1.31",
     "description": "Peer-to-peer compute mesh and economy",
     "homepage": "https://github.com/ce-net/ce",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/ce-net/ce/releases/download/v0.1.30/ce-windows-amd64.zip",
-            "hash": "3284ffe6464107f9dab42fd20ade50fc6dd1aa71ac3ad931a4826abf9e0cc33e"
+            "url": "https://github.com/ce-net/ce/releases/download/v0.1.31/ce-windows-amd64.zip",
+            "hash": "d0850d741676e4d0cdbfc831059d0e67ed25969f7ced0747484cd0e18653a9d9"
         }
     },
     "bin": "ce.exe",
